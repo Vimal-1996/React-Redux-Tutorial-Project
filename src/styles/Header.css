@@ -1,0 +1,23 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+.navigationbar{
+    background-color: rgb(245, 243, 243);
+}
+.prodstore{
+    padding: 0%;
+}
+.navigationbarul{
+    padding: 10px;
+    list-style-type: none ;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.navigationbarli{
+    margin-right: 3%;
+    text-decoration: none;
+    color:black;
+    font-size: 15px;
+}
